@@ -57,19 +57,19 @@ td{
 tr:nth-child(even){
     background-color: lightgrey;
 }
-.navigation-horizontal {
+.navigation {
     width: 100%;
     background-color:black;
     overflow: auto;
 }
-.navigation-horizontal a {
+.navigation a {
     float: left;
     padding: 12px;
     color:white;
     text-decoration: none;
     font-size: 16px;
 }
-.navigation-horizontal a:hover {
+.navigation a:hover {
     background-color:palevioletred;
 }
 .book {
