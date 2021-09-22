@@ -3,12 +3,10 @@ h6.name{
     font-size: 20px;
     color: black; 
 }
-
 p.speech{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     color: black;
-
 }
 p.stagedirection{
     font-family: Arial, sans-serif;
@@ -22,18 +20,15 @@ p.stagedirection:hover{
     color: black;
     background-color: purple;
 }
-
 h6.ALGERNON{
-
     font-family: sans-serif;
     font-size: 20px;
     color:lightcoral;
 }
 h6.ALGERNON:hover{
-    text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red; 
     border-style: solid;
 }
-
 h6.LANE{
     font-family: sans-serif;
     font-size: 20px;
@@ -43,8 +38,6 @@ h6.LANE:hover{
     text-shadow: 2px 2px 5px red;
     border-style: solid;
 }
-
-
 table{
     margin: 30px;
 }
