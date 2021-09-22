@@ -78,3 +78,10 @@ ul.navbar-horizontal a:hover {
     background-color: darkslateblue;
     color:yellowgreen;
 }
+
+@media screen and (max-width:500){
+    .navbar a{
+        float:none;
+        display:block;
+    }
+}
