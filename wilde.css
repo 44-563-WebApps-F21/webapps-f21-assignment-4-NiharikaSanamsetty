@@ -52,12 +52,7 @@ tr:nth-child(even) {
     background-color: rgb(222, 135, 215);
 }
 
-.name:hover{
-    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.822);
-    color:rgb(0, 195, 255);
-    filter: blur(3px);
-    border: solid 2px rgb(220, 220, 220);
-}
+
 ul.navbar-horizontal {
     list-style-type: none;
     margin: 0;
