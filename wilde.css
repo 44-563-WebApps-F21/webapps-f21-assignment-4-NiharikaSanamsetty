@@ -34,6 +34,7 @@ h6.LANE{
     font-size: 20px;
     color:palevioletred;
 }
+
 h6.LANE:hover{
     text-shadow: 2px 2px 5px red;
     border-style: solid;
@@ -56,19 +57,19 @@ td{
 tr:nth-child(even){
     background-color: lightgrey;
 }
-.navigation {
+.navigation-horizontal {
     width: 100%;
     background-color:black;
     overflow: auto;
 }
-.navigation a {
+.navigation-horizontal a {
     float: left;
     padding: 12px;
     color:white;
     text-decoration: none;
     font-size: 16px;
 }
-.navigation a:hover {
+.navigation-horizontal a:hover {
     background-color:palevioletred;
 }
 .book {
